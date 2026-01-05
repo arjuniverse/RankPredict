@@ -1,0 +1,333 @@
+[
+  {
+    "name": "IIT Bombay",
+    "location": "Mumbai, Maharashtra",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": 100,
+            "Female": 200
+          },
+          "OBC": {
+            "Male": 300,
+            "Female": 500
+          },
+          "SC": {
+            "Male": 800,
+            "Female": 1200
+          },
+          "ST": {
+            "Male": 1500,
+            "Female": 2000
+          },
+          "EWS": {
+            "Male": 200,
+            "Female": 350
+          }
+        }
+      },
+      {
+        "name": "Electrical Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": 500,
+            "Female": 800
+          },
+          "OBC": {
+            "Male": 1200,
+            "Female": 1800
+          },
+          "SC": {
+            "Male": 3000,
+            "Female": 4500
+          },
+          "ST": {
+            "Male": 6000,
+            "Female": 8000
+          },
+          "EWS": {
+            "Male": 800,
+            "Female": 1200
+          }
+        }
+      },
+      {
+        "name": "Mechanical Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": 1200,
+            "Female": 2000
+          },
+          "OBC": {
+            "Male": 3000,
+            "Female": 4500
+          },
+          "SC": {
+            "Male": 8000,
+            "Female": 12000
+          },
+          "ST": {
+            "Male": 15000,
+            "Female": 20000
+          },
+          "EWS": {
+            "Male": 2000,
+            "Female": 3000
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "IIT Delhi",
+    "location": "New Delhi",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": 120,
+            "Female": 250
+          },
+          "OBC": {
+            "Male": 400,
+            "Female": 600
+          },
+          "SC": {
+            "Male": 1000,
+            "Female": 1500
+          },
+          "ST": {
+            "Male": 1800,
+            "Female": 2500
+          },
+          "EWS": {
+            "Male": 250,
+            "Female": 400
+          }
+        }
+      },
+      {
+        "name": "Electrical Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": 600,
+            "Female": 900
+          },
+          "OBC": {
+            "Male": 1500,
+            "Female": 2200
+          },
+          "SC": {
+            "Male": 4000,
+            "Female": 6000
+          },
+          "ST": {
+            "Male": 7000,
+            "Female": 10000
+          },
+          "EWS": {
+            "Male": 1000,
+            "Female": 1500
+          }
+        }
+      },
+      {
+        "name": "Civil Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": 2500,
+            "Female": 4000
+          },
+          "OBC": {
+            "Male": 6000,
+            "Female": 9000
+          },
+          "SC": {
+            "Male": 15000,
+            "Female": 22000
+          },
+          "ST": {
+            "Male": 25000,
+            "Female": 35000
+          },
+          "EWS": {
+            "Male": 4000,
+            "Female": 6000
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "IIT Madras",
+    "location": "Chennai, Tamil Nadu",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": 150,
+            "Female": 300
+          },
+          "OBC": {
+            "Male": 500,
+            "Female": 700
+          },
+          "SC": {
+            "Male": 1200,
+            "Female": 1800
+          },
+          "ST": {
+            "Male": 2000,
+            "Female": 3000
+          },
+          "EWS": {
+            "Male": 300,
+            "Female": 500
+          }
+        }
+      },
+      {
+        "name": "Mechanical Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": 1500,
+            "Female": 2500
+          },
+          "OBC": {
+            "Male": 4000,
+            "Female": 6000
+          },
+          "SC": {
+            "Male": 10000,
+            "Female": 15000
+          },
+          "ST": {
+            "Male": 18000,
+            "Female": 25000
+          },
+          "EWS": {
+            "Male": 2500,
+            "Female": 4000
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "IIT Kanpur",
+    "location": "Kanpur, Uttar Pradesh",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": 200,
+            "Female": 400
+          },
+          "OBC": {
+            "Male": 600,
+            "Female": 900
+          },
+          "SC": {
+            "Male": 1500,
+            "Female": 2200
+          },
+          "ST": {
+            "Male": 2500,
+            "Female": 3500
+          },
+          "EWS": {
+            "Male": 400,
+            "Female": 600
+          }
+        }
+      },
+      {
+        "name": "Aerospace Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": 1800,
+            "Female": 3000
+          },
+          "OBC": {
+            "Male": 4500,
+            "Female": 7000
+          },
+          "SC": {
+            "Male": 12000,
+            "Female": 18000
+          },
+          "ST": {
+            "Male": 22000,
+            "Female": 30000
+          },
+          "EWS": {
+            "Male": 3000,
+            "Female": 5000
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "IIT Kharagpur",
+    "location": "Kharagpur, West Bengal",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": 250,
+            "Female": 500
+          },
+          "OBC": {
+            "Male": 700,
+            "Female": 1100
+          },
+          "SC": {
+            "Male": 1800,
+            "Female": 2700
+          },
+          "ST": {
+            "Male": 3000,
+            "Female": 4500
+          },
+          "EWS": {
+            "Male": 500,
+            "Female": 800
+          }
+        }
+      },
+      {
+        "name": "Electrical Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": 800,
+            "Female": 1200
+          },
+          "OBC": {
+            "Male": 2000,
+            "Female": 3000
+          },
+          "SC": {
+            "Male": 5000,
+            "Female": 7500
+          },
+          "ST": {
+            "Male": 9000,
+            "Female": 13000
+          },
+          "EWS": {
+            "Male": 1200,
+            "Female": 1800
+          }
+        }
+      }
+    ]
+  }
+]
+

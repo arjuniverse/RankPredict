@@ -1,0 +1,325 @@
+[
+  {
+    "name": "NIT Trichy",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 2000,
+              "Tamil Nadu": 2500
+            },
+            "Female": {
+              "AllIndia": 4000,
+              "Tamil Nadu": 5000
+            }
+          },
+          "OBC": {
+            "Male": {
+              "AllIndia": 6000,
+              "Tamil Nadu": 7000
+            },
+            "Female": {
+              "AllIndia": 10000,
+              "Tamil Nadu": 12000
+            }
+          },
+          "SC": {
+            "Male": {
+              "AllIndia": 20000,
+              "Tamil Nadu": 25000
+            },
+            "Female": {
+              "AllIndia": 35000,
+              "Tamil Nadu": 40000
+            }
+          },
+          "ST": {
+            "Male": {
+              "AllIndia": 40000,
+              "Tamil Nadu": 50000
+            },
+            "Female": {
+              "AllIndia": 60000,
+              "Tamil Nadu": 70000
+            }
+          },
+          "EWS": {
+            "Male": {
+              "AllIndia": 4000,
+              "Tamil Nadu": 5000
+            },
+            "Female": {
+              "AllIndia": 7000,
+              "Tamil Nadu": 8000
+            }
+          }
+        }
+      },
+      {
+        "name": "Electrical Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 8000,
+              "Tamil Nadu": 10000
+            },
+            "Female": {
+              "AllIndia": 15000,
+              "Tamil Nadu": 18000
+            }
+          },
+          "OBC": {
+            "Male": {
+              "AllIndia": 20000,
+              "Tamil Nadu": 25000
+            },
+            "Female": {
+              "AllIndia": 35000,
+              "Tamil Nadu": 40000
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "NIT Surathkal",
+    "location": "Surathkal, Karnataka",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 2500,
+              "Karnataka": 3000
+            },
+            "Female": {
+              "AllIndia": 5000,
+              "Karnataka": 6000
+            }
+          },
+          "OBC": {
+            "Male": {
+              "AllIndia": 7000,
+              "Karnataka": 8000
+            },
+            "Female": {
+              "AllIndia": 12000,
+              "Karnataka": 15000
+            }
+          }
+        }
+      },
+      {
+        "name": "Information Technology",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 3000,
+              "Karnataka": 3500
+            },
+            "Female": {
+              "AllIndia": 6000,
+              "Karnataka": 7000
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "NIT Warangal",
+    "location": "Warangal, Telangana",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 3000,
+              "Telangana": 3500
+            },
+            "Female": {
+              "AllIndia": 6000,
+              "Telangana": 7000
+            }
+          },
+          "OBC": {
+            "Male": {
+              "AllIndia": 8000,
+              "Telangana": 9000
+            },
+            "Female": {
+              "AllIndia": 14000,
+              "Telangana": 16000
+            }
+          }
+        }
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 5000,
+              "Telangana": 6000
+            },
+            "Female": {
+              "AllIndia": 10000,
+              "Telangana": 12000
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "NIT Calicut",
+    "location": "Calicut, Kerala",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 3500,
+              "Kerala": 4000
+            },
+            "Female": {
+              "AllIndia": 7000,
+              "Kerala": 8000
+            }
+          },
+          "OBC": {
+            "Male": {
+              "AllIndia": 9000,
+              "Kerala": 10000
+            },
+            "Female": {
+              "AllIndia": 16000,
+              "Kerala": 18000
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "NIT Rourkela",
+    "location": "Rourkela, Odisha",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 4000,
+              "Odisha": 4500
+            },
+            "Female": {
+              "AllIndia": 8000,
+              "Odisha": 9000
+            }
+          },
+          "OBC": {
+            "Male": {
+              "AllIndia": 10000,
+              "Odisha": 11000
+            },
+            "Female": {
+              "AllIndia": 18000,
+              "Odisha": 20000
+            }
+          }
+        }
+      },
+      {
+        "name": "Mechanical Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 12000,
+              "Odisha": 14000
+            },
+            "Female": {
+              "AllIndia": 25000,
+              "Odisha": 28000
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "NIT Delhi",
+    "location": "New Delhi",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 4500,
+              "Delhi": 5000
+            },
+            "Female": {
+              "AllIndia": 9000,
+              "Delhi": 10000
+            }
+          },
+          "OBC": {
+            "Male": {
+              "AllIndia": 11000,
+              "Delhi": 12000
+            },
+            "Female": {
+              "AllIndia": 20000,
+              "Delhi": 22000
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "NIT Jaipur",
+    "location": "Jaipur, Rajasthan",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 5000,
+              "Rajasthan": 5500
+            },
+            "Female": {
+              "AllIndia": 10000,
+              "Rajasthan": 11000
+            }
+          }
+        }
+      },
+      {
+        "name": "Electrical Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 15000,
+              "Rajasthan": 17000
+            },
+            "Female": {
+              "AllIndia": 30000,
+              "Rajasthan": 35000
+            }
+          }
+        }
+      }
+    ]
+  }
+]
+

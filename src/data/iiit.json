@@ -1,0 +1,274 @@
+[
+  {
+    "name": "IIIT Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 1500,
+              "Telangana": 1800
+            },
+            "Female": {
+              "AllIndia": 3000,
+              "Telangana": 3500
+            }
+          },
+          "OBC": {
+            "Male": {
+              "AllIndia": 4000,
+              "Telangana": 4500
+            },
+            "Female": {
+              "AllIndia": 7000,
+              "Telangana": 8000
+            }
+          },
+          "SC": {
+            "Male": {
+              "AllIndia": 15000,
+              "Telangana": 18000
+            },
+            "Female": {
+              "AllIndia": 25000,
+              "Telangana": 30000
+            }
+          }
+        }
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 3000,
+              "Telangana": 3500
+            },
+            "Female": {
+              "AllIndia": 6000,
+              "Telangana": 7000
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "IIIT Bangalore",
+    "location": "Bangalore, Karnataka",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 2000,
+              "Karnataka": 2400
+            },
+            "Female": {
+              "AllIndia": 4000,
+              "Karnataka": 4800
+            }
+          },
+          "OBC": {
+            "Male": {
+              "AllIndia": 5000,
+              "Karnataka": 6000
+            },
+            "Female": {
+              "AllIndia": 9000,
+              "Karnataka": 10000
+            }
+          }
+        }
+      },
+      {
+        "name": "Information Technology",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 2500,
+              "Karnataka": 3000
+            },
+            "Female": {
+              "AllIndia": 5000,
+              "Karnataka": 6000
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "IIIT Delhi",
+    "location": "New Delhi",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 2500,
+              "Delhi": 2800
+            },
+            "Female": {
+              "AllIndia": 5000,
+              "Delhi": 5500
+            }
+          },
+          "OBC": {
+            "Male": {
+              "AllIndia": 6000,
+              "Delhi": 6500
+            },
+            "Female": {
+              "AllIndia": 11000,
+              "Delhi": 12000
+            }
+          }
+        }
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 4000,
+              "Delhi": 4500
+            },
+            "Female": {
+              "AllIndia": 8000,
+              "Delhi": 9000
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "IIIT Allahabad",
+    "location": "Allahabad, Uttar Pradesh",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 3000,
+              "Uttar Pradesh": 3500
+            },
+            "Female": {
+              "AllIndia": 6000,
+              "Uttar Pradesh": 7000
+            }
+          },
+          "OBC": {
+            "Male": {
+              "AllIndia": 7000,
+              "Uttar Pradesh": 8000
+            },
+            "Female": {
+              "AllIndia": 13000,
+              "Uttar Pradesh": 15000
+            }
+          }
+        }
+      },
+      {
+        "name": "Information Technology",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 3500,
+              "Uttar Pradesh": 4000
+            },
+            "Female": {
+              "AllIndia": 7000,
+              "Uttar Pradesh": 8000
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "IIIT Guwahati",
+    "location": "Guwahati, Assam",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 4000,
+              "Assam": 4500
+            },
+            "Female": {
+              "AllIndia": 8000,
+              "Assam": 9000
+            }
+          },
+          "OBC": {
+            "Male": {
+              "AllIndia": 9000,
+              "Assam": 10000
+            },
+            "Female": {
+              "AllIndia": 16000,
+              "Assam": 18000
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "IIIT Jabalpur",
+    "location": "Jabalpur, Madhya Pradesh",
+    "branches": [
+      {
+        "name": "Computer Science and Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 4500,
+              "Madhya Pradesh": 5000
+            },
+            "Female": {
+              "AllIndia": 9000,
+              "Madhya Pradesh": 10000
+            }
+          },
+          "OBC": {
+            "Male": {
+              "AllIndia": 10000,
+              "Madhya Pradesh": 11000
+            },
+            "Female": {
+              "AllIndia": 18000,
+              "Madhya Pradesh": 20000
+            }
+          }
+        }
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "cutoffs": {
+          "General": {
+            "Male": {
+              "AllIndia": 6000,
+              "Madhya Pradesh": 6500
+            },
+            "Female": {
+              "AllIndia": 12000,
+              "Madhya Pradesh": 13000
+            }
+          }
+        }
+      }
+    ]
+  }
+]
+
