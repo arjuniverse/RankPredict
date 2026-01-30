@@ -18,3 +18,23 @@ RankPredict is a web-based application that helps students estimate possible col
 
 ## 📁 Project Structure
 
+## ▶️ How to Run
+1. Clone or download the repository  
+2. Open `index.html` in your browser  
+3. Enter your rank to explore possible college options 🎯  
+
+## 🎯 Project Objective
+RankPredict was developed to:
+- Help students simplify college selection  
+- Practice data filtering and frontend logic  
+- Provide a real-world problem-solving application  
+
+## 🌱 Future Enhancements
+- Integration with real counseling datasets  
+- Advanced filters (category, quota, region)  
+- Rank trend analytics  
+- User login and saved preferences  
+
+## 📄 License
+This project is open-source and created for educational purposes.
+
