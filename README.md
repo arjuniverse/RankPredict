@@ -1,13 +1,20 @@
-# RankPredict
+# 🎓 RankPredict
 
-JEE Rank to College Predictor - Frontend only application using React + Vite.
+RankPredict is a web-based application that helps students estimate possible college options based on their entrance exam rank. It provides insights into which colleges and branches they may be eligible for, helping them make informed decisions during the counseling process.
 
-## Setup
+## ✨ Features
+- Rank-based college prediction  
+- College and branch filtering  
+- Simple and intuitive user interface  
+- Quick comparison of possible options  
+- Responsive design for all devices  
 
-```bash
-npm install
-npm run dev
-```
+## 🛠️ Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
 
-Open http://localhost:5173
+*(Optional upgrade: React / Firebase integration)*
+
+## 📁 Project Structure
 
